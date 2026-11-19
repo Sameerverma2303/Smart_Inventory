@@ -265,3 +265,9 @@ Status codes used: `200`, `201`, `400` (invalid input), `401` (not logged in), `
 | Want the original data back | `npm run import:reset` in `backend/`. |
 
 See **PROJECT_DOCUMENTATION.md** for the full report and **VIVA_GUIDE.md** for viva preparation.
+
+## 16. Author & Maintainer
+
+- **Developer:** Sameer Verma
+- **Email:** [sameerverma23003@gmail.com](mailto:sameerverma23003@gmail.com)
+

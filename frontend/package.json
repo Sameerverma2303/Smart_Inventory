@@ -3,6 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  "author": "Sameer Verma <sameerverma23003@gmail.com>",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

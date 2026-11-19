@@ -2,6 +2,7 @@
   "name": "smart-inventory-backend",
   "version": "1.0.0",
   "description": "Smart Inventory & Demand Forecasting System - REST API",
+  "author": "Sameer Verma <sameerverma23003@gmail.com>",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -11,7 +12,7 @@
     "import:reset": "node scripts/importData.js --reset",
     "seed:admin": "node scripts/seedAdmin.js",
     "verify": "node scripts/verifyDb.js",
-    "ml:setup": "python3 -m venv ml/.venv && ml/.venv/bin/pip install -r ml/requirements.txt",
+    "ml:setup": "node scripts/setupMl.js",
     "forecast": "node scripts/runForecast.js",
     "test": "node tests/e2e.test.js"
   },

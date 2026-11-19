@@ -77,7 +77,8 @@ Follow this step-by-step guide to keep your website online 24/7 without needing 
    - `MONGODB_URI`: *(your MongoDB Atlas connection string from Step 1)*
    - `JWT_SECRET`: *(a random 32+ character string, e.g., `s9f82k34jlkasdf98327423984723984723847`)*
    - `CORS_ORIGIN`: `*`
-   - `ADMIN_EMAIL`: `admin@smartinventory.local`
+   - `ADMIN_NAME`: `Sameer Verma`
+   - `ADMIN_EMAIL`: `sameerverma23003@gmail.com`
    - `ADMIN_PASSWORD`: `AdminPassword123!`
    - `GEMINI_API_KEY`: *(your Google AI Studio API key from a Free Tier project; do not link billing if you need to keep usage at $0)*
    - `GEMINI_MODEL`: `gemini-3.5-flash-lite`

@@ -1,5 +1,8 @@
 # Smart Inventory & Demand Forecasting System — Project Documentation
 
+**Author:** Sameer Verma  
+**Email:** [sameerverma23003@gmail.com](mailto:sameerverma23003@gmail.com)  
+
 ## 1. Introduction
 
 Shops and distributors lose money in two opposite ways: they run out of products customers want (lost sales), or they hold too much stock (blocked money, storage cost). Both problems come from not knowing how much will sell in the coming days.
